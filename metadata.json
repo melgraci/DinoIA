@@ -1,0 +1,6 @@
+{
+  "name": "Dino Q-Learning Lab",
+  "description": "Aplicação didática interativa para o ensino de Aprendizagem por Reforço (Q-Learning) baseada no jogo do dinossauro, com visualização em tempo real dos estados e da memória do agente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
